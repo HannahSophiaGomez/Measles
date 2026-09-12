@@ -1,0 +1,27 @@
+METADATA FOR CASES OF MEASLES PER YEAR,
+Data Label,Definition
+week,Epidemiological week number
+date,Coverage period
+cases,Total cumulative measles cases recorded to that week
+percent_change_from_prev_year,"Percent increase from the same time frame in previous year, written as (+/- %) "
+deaths,Cumulative number of reported deaths from measles to that week
+CFR,Deaths ÷ Cases × 100 (reported as %)
+,
+"METADATA FOR CASES OF MEASLES PER REGION (YEAR 2020, 2021, AND 2023)",
+Data Label,Definition
+Region,Geographic region in the Philippines where cases were reported.
+Week,Epidemiological week of reporting (Morbidity Week).
+Dates,Calendar dates corresponding to the epidemiological week of reporting.
+rCases,Reported number of Measles cases (suspected and confirmed) within the epidemiological week.
+cCases,"Cumulative number of reported Measles cases, aligned by Morbidity Week."
+rcPC,Percent change in reported Measles cases compared to the same epidemiological week in the previous year.
+ccPC,Percent change in cumulative Measles cases compared to the same point in the previous year.
+rDeaths,Number of reported deaths due to Measles within the epidemiological week.
+cDeaths,"Cumulative number of reported deaths due to Measles, aligned by Morbidity Week."
+rCFR,Case Fatality Rate (CFR) for deaths due to Measles within the epidemiological week.
+cCFR,"Cumulative Case Fatality Rate (CFR) for deaths due to Measles, aligned by Morbidity Week."
+Population,Estimated population of the region.
+Incidence_Rate,"Incidence rate of Measles (per 1,000,000 population)."
+,
+Note: Data have been tabulated for easier filtering. A CSV file is available for further analysis.,
+Note: The missing data are not due to encoding errors but to the lack of records from the DOH.,
